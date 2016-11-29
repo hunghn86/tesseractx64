@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/nli486fa8syrwb0g?svg=true)](https://ci.appveyor.com/project/peirick/vs2015-tesseract)
-
 # Visual Studio 2015 Projects for Tessearct and dependencies.
 This repository should help developers to compile tesseract OCR with Visual Studio 2015. It contains a *build_tesseract.bat* to build the latest tesseract version.
 
